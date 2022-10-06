@@ -31,11 +31,14 @@ Run file:
 
 ## Completed Problems
 1. Write a Shell Script to Convert CSV files to VCF files
+2. Write a Shell Script to Convert YouTube Transcript files to SRT files
 
 ## contribute
-Problem2
 Problem3
 Problem4
 
 ## Contributers
 [Nupur Chavan](https://github.com/NupurChavan)
+[mr-shitij](https://github.com/mr-shitij)
+
+
