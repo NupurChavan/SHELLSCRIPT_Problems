@@ -5,9 +5,20 @@
 # SHELLSCRIPT Problems
 
 
+## Problems
+SHELL SCRIPT Problems:
 
-## Description
-This repository contains SHELL SCRIPT Problems
+Problem1:
+Write a Shell Script to Convert CSV files to VCF files
+
+Problem2:
+Write a Shell Script to Convert YouTube Transcript files to SRT files
+
+Problem3:
+Find the top 10  size files created in last 20 days.
+
+Problem4:
+Move all duplicate files(except one) from a folder to a target location. 
 
 ## How to run
 Running the script is really simple! Just open a terminal in the folder where your script is located and run the following commands:
