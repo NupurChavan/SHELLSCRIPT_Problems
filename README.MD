@@ -33,13 +33,13 @@ Run file:
 1. Write a Shell Script to Convert CSV files to VCF files
 2. Write a Shell Script to Convert YouTube Transcript files to SRT files
 3. Find the top 10  size files created in last 20 days.
+4. Move all duplicate files(except one) from a folder to a target location. 
 
-## contribute
-Problem4
 
 ## Contributers
 [Nupur Chavan](https://github.com/NupurChavan)
 [mr-shitij](https://github.com/mr-shitij)
 [mr-sanskarjamadar](https://github.com/sanskarjamadar)
+[Raj Telgote](https://github.com/raj-0201)
 
 
